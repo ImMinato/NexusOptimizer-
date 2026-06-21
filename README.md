@@ -266,7 +266,7 @@ Como parte del control de calidad, se realizó además una **verificación de tr
 <details>
 <summary><b>¿Es de código abierto?</b></summary>
 <br>
-No. Es un proyecto propietario en etapa de desarrollo, con planes de comercialización futura. El repositorio es privado.
+No. Es un proyecto propietario en etapa de desarrollo, con planes de comercialización futura. El codigo es privado.
 </details>
 
 <details>
