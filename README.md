@@ -16,7 +16,7 @@
 <br>
 
 > [!WARNING]
-> **Software propietario — repositorio privado.** El código fuente, la arquitectura y la lógica de optimización aquí documentada son de uso exclusivo del autor/equipo y **no** se distribuyen bajo licencia de código abierto. Ver sección [Licencia](#-licencia).
+> **Software propietario — codigo privado.** El código fuente, la arquitectura y la lógica de optimización aquí documentada son de uso exclusivo del autor/equipo y **no** se distribuyen bajo licencia de código abierto. Ver sección [Licencia](#-licencia).
 
 <br>
 
