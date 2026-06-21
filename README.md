@@ -326,7 +326,7 @@ En desarrollo activo. Actualmente de uso interno / evaluación. El modelo de dis
 
 Este software es propiedad de su(s) autor(es) y se encuentra en una etapa previa a su comercialización. Queda prohibida su copia, modificación, distribución, ingeniería inversa o uso, total o parcial, sin autorización expresa y por escrito del titular.
 
-Este repositorio es privado y se mantiene con fines de desarrollo y control de versiones. El acceso al código no implica la concesión de ninguna licencia de uso.
+Este se mantiene con fines de desarrollo y control de versiones. El acceso al código no implica la concesión de ninguna licencia de uso.
 
 <br>
 
