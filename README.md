@@ -256,15 +256,6 @@ Como parte del control de calidad, se realizó además una **verificación de tr
 
 <br>
 
-## 🖼️ Capturas de pantalla
-
-> *Espacio reservado para capturas de la interfaz una vez definida la versión a publicar en el sitio del proyecto.*
-
-<div align="center">
-
-| Panel principal | Perfiles de optimización | Benchmark e historial |
-|---|---|---|
-| 🖼️ *(pendiente)* | 🖼️ *(pendiente)* | 🖼️ *(pendiente)* |
 
 </div>
 
